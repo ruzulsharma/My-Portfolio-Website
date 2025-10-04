@@ -38,7 +38,7 @@ const Navbar = () => {
           <img src="/images/bitemoji.png" alt="" className="w-16" />
         </div>
         <div className="text-md font-semibold mt-2">
-          <p>Suraj</p>
+          <p>RUZUL</p>
         </div>
       </div>
 
