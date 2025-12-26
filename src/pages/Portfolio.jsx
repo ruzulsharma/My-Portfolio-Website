@@ -13,7 +13,7 @@ const Projects = [
     img: "/images/Grocery.jpg",
     title: "EcoGrocers",
     development: "E-Commerce Platform",
-    link: "",
+    link: "https://dynamic-grocery.preview.emergentagent.com/",
   },
   {
     img: "/images/Portfolio.png",
