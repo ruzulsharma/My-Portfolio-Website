@@ -40,6 +40,12 @@ const Projects = [
     development: "CloudNotes Website",
     link: "",
   },
+   {
+    img: "/images/TransactionAgent.png",
+    title: "AI-powered Fraud Detection System",
+    development: "AI-powered Fraud Detection System",
+    link: "https://transactionaiagent.vercel.app/",
+  },
 ];
 
 const Portfolio = () => {
