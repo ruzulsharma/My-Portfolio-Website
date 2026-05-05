@@ -36,9 +36,9 @@ const Projects = [
   },
   {
     img: "/images/cloudyNotes.png",
-    title: "Cloud Notes",
+    title: "Cloud Notes with AI Agents",
     development: "CloudNotes Website",
-    link: "",
+    link: "https://noteagent-frontend.onrender.com/notes",
   },
    {
     img: "/images/TransactionAgent.png",
