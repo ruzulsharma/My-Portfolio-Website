@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import FloatingSkill from "../components/FloatingSkill";
 
-const RESUME_DOWNLOAD_LINK = "https://drive.google.com/file/d/1EDjRZ8kDLF0OZvHF_QCKYXXDkPjKQTQq/view?usp=sharing";
+const RESUME_DOWNLOAD_LINK = "https://drive.google.com/file/d/1fSPovvjBzeXoQX9did0f-O_Uu9pfnuPX/view?usp=sharing";
 const Resume = () => {
   return (
     <div className="max-w-4xl mx-auto space-y-12">
